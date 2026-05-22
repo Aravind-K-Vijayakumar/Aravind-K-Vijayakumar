@@ -45,6 +45,12 @@ T-SQL queries across 64+ countries and sectors — null imputation, window funct
 
 ---
 
+### 📋 [Consumer Complaint Analysis — Excel Reporting & Dashboard](https://github.com/Aravind-K-Vijayakumar/consumer-complaint-analysis)
+End-to-end data cleaning, reporting, and KPI dashboard on 14,000 US financial complaints across 1,050 companies (2013–2016). 98.4% timely response compliance identified; dynamic dashboard automated from a single source file.
+`Excel` `Pivot Tables` `VLOOKUP` `Data Validation` `KPI Dashboard` `Data Cleaning`
+
+---
+
 ### 🧩 [SSM Stakeholder Analysis — Uttar Pradesh](https://github.com/Aravind-K-Vijayakumar/ssm-stakeholder-analysis-uttar-pradesh)
 Soft Systems Methodology analysis of violence against women in Uttar Pradesh — stakeholder mapping, CATWOE analyses, conceptual models, and policy recommendations.  
 `SSM` `Systems Thinking` `Stakeholder Analysis` `SWOT`
