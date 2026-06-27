@@ -15,6 +15,12 @@ I'm a Business & Data Analyst with an MSc in Business Analytics from Aston Unive
 
 ## 📂 Featured Projects
 
+### 🗃️ [Retail Sales Intelligence — SQL Analysis & Business Reporting](https://github.com/Aravind-K-Vijayakumar/retail-sales-intelligence-SQL-Analysis)
+End-to-end SQL analytics project on 60,000+ transactions across 6 countries and 18,484 customers. Covers EDA, YoY performance with LAG(), cumulative trends, part-to-whole analysis, customer segmentation (VIP/Regular/New), and two consolidated business reporting views.  
+`T-SQL` `SQL Server` `Window Functions` `CTEs` `Business Reporting` `Customer Segmentation`
+
+---
+
 ### 📊 [E-Commerce Analytics Dashboard — Power BI](https://github.com/Aravind-K-Vijayakumar/ecommerce-analytics-powerbi)
 8-page self-serve analytics dashboard with dynamic field parameters, cross-filter slicers, and behavioural user segmentation. Identified **$1.65M in lost revenue** and a **15.26pp conversion uplift** from promotional activity.  
 `Power BI` `DAX` `Power Query` `Data Modelling`
