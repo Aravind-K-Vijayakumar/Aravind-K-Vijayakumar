@@ -10,7 +10,12 @@ I'm a Business & Data Analyst with an MSc in Business Analytics from Aston Unive
 **Data & ML:** Python · scikit-learn · XGBoost · Pandas · NumPy · Seaborn · Matplotlib  
 **Databases:** SQL (T-SQL) · ETL Pipelines · Data Modelling  
 **Methods:** Regression · Classification · EDA · Feature Engineering · GridSearchCV
+---
 
+## 📜 Certifications
+
+**[Microsoft Certified: Power BI Data Analyst Associate (PL-300)]
+(https://learn.microsoft.com/api/credentials/share/en-us/AravindKVijayakumar-5412/2302221F0FF4321D?sharingId=4BDE4D53A6C00FA3)** — Sep 2026
 ---
 
 ## 📂 Featured Projects
