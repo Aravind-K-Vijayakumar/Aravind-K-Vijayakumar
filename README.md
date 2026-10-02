@@ -32,6 +32,12 @@ End-to-end SQL analytics project on 60,000+ transactions across 6 countries and 
 
 ---
 
+### 🧱 [Multi-Source Data Modelling — Power BI](https://github.com/Aravind-K-Vijayakumar/powerbi-multi-source-data-modelling)
+Rebuilt 23 messy raw sheets into a 13-table star schema (6 facts, 6 dimensions, 1 measures table). Covers a bridge table for a delimited SKU list, schema reconciliation across two years of orders, unpivoted inventory, and region-based row-level security.
+`Power BI` `DAX` `Power Query` `Data Modelling` `RLS`
+
+---
+
 ### 🤖 [UK Road Safety — Accident Severity Prediction](https://github.com/Aravind-K-Vijayakumar/uk-winter-accident-severity-prediction)
 End-to-end ML pipeline on 155K+ UK government road accident records. Built 5 classification models with GridSearchCV tuning. Best model: **Random Forest at 92.87% F1 score**.  
 `Python` `scikit-learn` `XGBoost` `Random Forest` `EDA`
